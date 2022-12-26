@@ -7,4 +7,4 @@
 <img align="center" src="https://user-images.githubusercontent.com/82071061/209553331-2a661f2d-cf00-41ca-991e-0db971bcf829.png" alt="Page Default" />
 
 ## Default Page
-<img align="center" src="https://user-images.githubusercontent.com/82071061/209554137-6a5cc47f-8bf5-4e73-b99e-ec64ab5482b6.png" alt="Page Default" />
+<img align="center" src="https://user-images.githubusercontent.com/82071061/209554137-6a5cc47f-8bf5-4e73-b99e-ec64ab5482b6.png" alt="Page Default Badge" />
